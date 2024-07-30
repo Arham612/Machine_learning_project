@@ -1,1 +1,1 @@
-my movie recommender System
+A content based movie recommender system using cosine similarity
